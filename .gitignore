@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual envs
+venv/
+.env/
+ryuenv38/
+poxenv38/
+
+# Data files
+*.csv
+*.xlsx
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
