@@ -33,7 +33,7 @@ This project solves that by:
 
 This is the high-level architecture showing backend modules, data layer, orchestration, and reporting flow.
 
-![System Architecture](images/cubby_monolithic_architecture_v4.png)
+![System Architecture](cubby_monolithic_architecture_v4.png)
 
 ---
 
