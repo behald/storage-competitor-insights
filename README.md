@@ -59,27 +59,27 @@ This is the high-level architecture showing backend modules, data layer, orchest
 ### 1) Competitor price comparison (by facility)
 Shows how competitor “lowest monthly price” compares with your facility.
 
-![Competitor Price Comparison](images/price_comparison.png)
+![Competitor Price Comparison](price_comparison.png)
 
 ### 2) Market price distribution
 A quick view of the spread of prices in the market.
 
-![Market Price Distribution](images/price_histogram.png)
+![Market Price Distribution](price_histogram.png)
 
 ### 3) Price vs distance
 Shows how prices change with distance, and where your facility sits.
 
-![Price vs Distance](images/price_vs_distance.png)
+![Price vs Distance](price_vs_distance.png)
 
 ### 4) Price positioning vs market
 Segments competitors into **Good / Fair / Risky** based on how far they are from market average.
 
-![Price Band Share](images/price_band_share.png)
+![Price Band Share](price_band_share.png)
 
 ### 5) Promo pressure in the market
 Shows how many competitors are running promotions.
 
-![Promo Pressure](images/promo_pressure.png)
+![Promo Pressure](promo_pressure.png)
 
 ### 6) Discount dependence snapshot
 Compares:
@@ -87,7 +87,7 @@ Compares:
 - original price with promo
 - discounted price with promo
 
-![Discount Dependence](images/discount_dependence.png)
+![Discount Dependence](discount_dependence.png)
 
 ---
 
@@ -96,12 +96,12 @@ Compares:
 ### 7) Neighborhood demand heatmap (proxy)
 A proxy demand view across distance bands and price bands.
 
-![Neighborhood Demand Heatmap](images/neighborhood_heatmap.png)
+![Neighborhood Demand Heatmap](neighborhood_heatmap.png)
 
 ### 8) Opportunity quadrant: price vs demand
 Helps decide whether to raise price, hold, or compete on price.
 
-![Opportunity Quadrant](images/opportunity_quadrant.png)
+![Opportunity Quadrant](opportunity_quadrant.png)
 
 ---
 
@@ -110,17 +110,17 @@ Helps decide whether to raise price, hold, or compete on price.
 ### 9) Price–Rating–Opportunity bubbles
 Shows the relationship between ratings and pricing gaps to spot opportunity.
 
-![Price Rating Opportunity](images/price_rating_opportunity.png)
+![Price Rating Opportunity](price_rating_opportunity.png)
 
 ### 10) Rating vs price (value positioning)
 A clearer view of where your facility sits on rating vs price.
 
-![Rating vs Price](images/rating_vs_price.png)
+![Rating vs Price](rating_vs_price.png)
 
 ### 11) Promo usage by rating bucket
 Shows promo usage across different rating ranges.
 
-![Promo Usage by Rating](images/rating_promo_matrix.png)
+![Promo Usage by Rating](rating_promo_matrix.png)
 
 ---
 
@@ -129,12 +129,12 @@ Shows promo usage across different rating ranges.
 ### 12) Revenue impact of price optimization
 Compares estimated annual revenue at current vs recommended price.
 
-![Revenue Uplift](images/revenue_uplift.png)
+![Revenue Uplift](revenue_uplift.png)
 
 ### 13) Top underpriced competitors (vs market average)
 Highlights competitors that are priced far below the market average.
 
-![Top Underpriced Competitors](images/top_underpriced.png)
+![Top Underpriced Competitors](top_underpriced.png)
 
 ---
 
